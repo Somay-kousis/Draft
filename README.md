@@ -1,5 +1,14 @@
 # Draft
 
+<p align="center">
+  <img src="https://img.shields.io/badge/language-TypeScript-3178C6.svg" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-20-339933.svg" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-16.3.2-000000.svg" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-19.2.8-61DAFB.svg" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-extension-646CFF.svg" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-styling-06B6D4.svg" alt="Tailwind CSS" />
+</p>
+
 **Draft is a privacy-first authorship verification system for writers.**
 
 Instead of trying to determine whether a finished piece *looks* AI-generated, Draft records evidence of **how the piece was created**.
